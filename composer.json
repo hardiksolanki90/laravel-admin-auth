@@ -1,0 +1,17 @@
+{
+    "name": "hardiksolanki90/laravel-admin-auth",
+    "description": "This library through create admin authentication directly.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hardik Solanki",
+            "email": "hardiksolanki811@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "AdminAuth\\Boot\\": "src/"
+        }
+    }
+}
